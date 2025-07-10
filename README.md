@@ -1,2 +1,2 @@
 # MyArdourTemplateArchive
-An archive fro my ardour track templates
+An archive for my ardour track templates.
